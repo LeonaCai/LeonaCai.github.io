@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Resume
-permalink: /Resume/
 ---
 
 # Baozhu Cai
