@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Leona Cai's Blog
-author: Leona Cai
-email: cai_leona@outlook.com
+title: intzero's Blog
+author: intzero
+email: intzero@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Amazing Bioinformatics
-url: https://leonacai.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-sitesearchurl: leonacai.github.io
+  程序媛/小硕/外协/折腾/技术宅
+url: http://lszero.com # the base hostname & protocol for your site, e.g. http://example.com
+sitesearchurl: lszero.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Markdown Processors
@@ -37,9 +37,11 @@ excerpt_separator: <!-- more -->
 permalink: /:categories/:title.html
 
 social_media:
-  github_url: https://github.com/leonacai
-  twitter_url: https://twitter.com/milkleo
-  linked_url:
+  github_url: https://github.com/lszero
+  weibo_url: http://weibo.com/u/2313016370
+  zhihu_url: https://www.zhihu.com/people/lszero
+  twitter_url: https://twitter.com/_lszero
+  lofter_url: http://intzero.lofter.com/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
