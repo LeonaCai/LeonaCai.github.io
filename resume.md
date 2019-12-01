@@ -6,7 +6,7 @@ title: Resume
 # Baozhu Cai
 ## Contatct
 📧E-mail: cai_leona@outlook.com  
-👁‍Website: <https://leonacai.github.io/about/>
+👁‍Website: <https://leonacai.github.io/resume/>
 
 ## Education
 ### Hainan University, Hainan, China
