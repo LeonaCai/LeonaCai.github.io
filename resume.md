@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: default
 title: Resume
 ---
 
-# [Baozhu Cai](./img/Baozhu_cai.pdf)
+# Baozhu Cai
 ## Contatct
 📧E-mail: cai_leona@outlook.com  
 👁‍Website: <https://leonacai.github.io/resume/>
