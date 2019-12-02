@@ -3,7 +3,7 @@ layout: post
 title: Resume
 ---
 
-# Baozhu Cai
+<center># Baozhu Cai</center>
 ## Contatct
 📧E-mail: cai_leona@outlook.com  
 👁‍Website: <https://leonacai.github.io/resume/>
