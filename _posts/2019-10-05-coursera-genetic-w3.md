@@ -73,3 +73,5 @@ tags: [Genetic,note]
 ## Genome-wide Association Studies - Mapping Complex Traits in Populations: Genome-wide association studies (GWAS)
 1. ![Introduction to Genetics and Evolution-week4-6.jpg](https://i.loli.net/2019/12/04/d4frXyzHN8BtLYO.jpg)
 
+# Supplemental Materials, Genetics III
+[Clikck here](https://www.coursera.org/learn/genetics-evolution/supplement/LPOCU/supplemental-materials-genetics-iii)
