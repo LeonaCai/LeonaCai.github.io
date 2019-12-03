@@ -66,5 +66,6 @@ tags: [Genetic,note]
 ## Complex Traits in Crosses
 1. ![Fine localization in crosses](https://raw.githubusercontent.com/LeonaCai/LeonaCai.github.io/master/img/Introduction%20to%20Genetics%20and%20Evolution-week4-4.jpg)
 2. Association depicted using "LOD" plot![PPT](https://raw.githubusercontent.com/LeonaCai/LeonaCai.github.io/master/img/Introduction%20to%20Genetics%20and%20Evolution-week4-5.jpg)
-3. You try it ![PPT]()
+3. You try it ![PPT](https://i.loli.net/2019/12/04/d4frXyzHN8BtLYO.jpg)
+
 
