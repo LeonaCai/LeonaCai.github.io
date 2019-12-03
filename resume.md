@@ -4,6 +4,7 @@ title: Resume
 ---
 
 # Baozhu Cai
+[You can downlaod here](https://github.com/LeonaCai/LeonaCai.github.io/raw/master/img/Baozhu_cai.pdf)
 ## Contatct
 📧E-mail: cai_leona@outlook.com  
 👁‍Website: <https://leonacai.github.io/resume/>
