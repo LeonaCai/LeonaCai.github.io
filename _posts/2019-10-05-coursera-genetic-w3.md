@@ -64,4 +64,6 @@ tags: [Genetic,note]
     - If there are many genes, and/ or if the effect is "complicated", the assocation may **not be very strong**.
 
 ## Complex Traits in Crosses
-1. 
+1. ![Fine localization in crosses](https://raw.githubusercontent.com/LeonaCai/LeonaCai.github.io/master/img/Introduction%20to%20Genetics%20and%20Evolution-week4-4.jpg)
+2. Association depicted using "LOD" plot![PPT]()
+
