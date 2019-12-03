@@ -69,3 +69,6 @@ tags: [Genetic,note]
 3. You try it ![PPT](https://i.loli.net/2019/12/04/d4frXyzHN8BtLYO.jpg)
 
 
+# Association Studies
+## Genome-wide Association Studies - Mapping Complex Traits in Populations: Genome-wide association studies (GWAS)
+1. 
