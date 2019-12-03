@@ -75,7 +75,8 @@ Rank 12 from top in the major
 ## Leadership Experience and Activites
 - The student union of Hainan University                                         5/2011 - 6/2012
     - Vice President
-
-
+- The agriculture scholarship of Hainan University  2010-2011
+- The agriculture scholarship of Hainan University  2011-2012
+- The agriculture scholarship of Hainan University  2012-2013
 
 
