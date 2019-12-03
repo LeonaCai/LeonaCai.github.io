@@ -63,3 +63,5 @@ tags: [Genetic,note]
     - Markers near ("linked to") gene(s) causing different phenotypes will show an association with that phenotype
     - If there are many genes, and/ or if the effect is "complicated", the assocation may **not be very strong**.
 
+## Complex Traits in Crosses
+1. 
