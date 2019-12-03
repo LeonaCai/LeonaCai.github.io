@@ -44,7 +44,8 @@ tags: [Genetic,note]
     - Specific base to "any different" base (A-> nonA)
     - Other types(inversions, translocations, deletions)
     - Anythins in a gene that tields a phenotype
-    - ![There is the show, if the worm mutation rate to human, how many base mutations do human have? and the ans is 65 new mutations](./img/Introduction to Genetics and Evolution-week4-2.jpg/)
+    - There is the show, if the worm mutation rate to human, how many base mutations do human have? and the ans is 65 new mutations
+    -![There is the show, if the worm mutation rate to human, how many base mutations do human have? and the ans is 65 new mutations](https://raw.githubusercontent.com/LeonaCai/LeonaCai.github.io/master/img/Introduction%20to%20Genetics%20and%20Evolution-week4-2.jpg)
 - Mutations introduce **a lot of** variation into populations
 
 ## Mapping Complex Traits - Principles of mapping complex traits
@@ -56,7 +57,8 @@ tags: [Genetic,note]
         - Cancers
         - Diabetes
         - Schizophrenia
-- ![QTLs](/img/Introduction to Genetics and Evolution-week4-3.jpg/)
+- QTLs
+- ![QTLs](https://raw.githubusercontent.com/LeonaCai/LeonaCai.github.io/master/img/Introduction%20to%20Genetics%20and%20Evolution-week4-3.jpg)
 - Association of marker genotype with phenotype
     - Markers near ("linked to") gene(s) causing different phenotypes will show an association with that phenotype
     - If there are many genes, and/ or if the effect is "complicated", the assocation may **not be very strong**.
