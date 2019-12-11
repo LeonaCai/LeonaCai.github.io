@@ -64,9 +64,11 @@ Rank 12 from top in the major
 - An Introduction to Interactive Programming in Python (Part 1) 
     - Coursera (Rice University)
 - Biology Meets Programming: Bioinformatics for Beginners (learning) 
-    - Coursera (University of California, San Diego)
+    - Coursera (University of California, SanDiego)
 - Machine Learning (learning) 
     - Coursera (Stanford University)
+- [Finding Hidden Massages in DNA(bioinformatics I)](https://www.coursera.org/account/accomplishments/certificate/RZPX8KYDCNTP)
+    - Coursera (University of California, SanDiego)
 
 ## Skills
 - **Computing**: Python, R, Perl, C++, Ruby
