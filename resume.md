@@ -19,15 +19,15 @@ Rank 12 from top in the major
 #### • Feng Zhang Lab of the State Key Laboratory of Genetic Enineering of School of Life Science of Fudan University, China
 <p align="right">2015/4-2019/2</p>
 - Bioinformatics
-    - Called, analyzed and annotated single nucleotide polymorphisms derived from whole exome sequence samples that changes variant interpretation compared to individual variants.
+    - Called, analyzed and annotated single nucleotide polymorphisms derived from whole exome sequence samples that change variant interpretation compared to individual variants.
     - Developed an easy and brief way to analyze the trio whole exome sequence;
-    - Called, analyzed the differential    expression in RNA-Seq data, and drew enrichment plot to make the differences clearly using KEGG or GO as background;
+    - Called, analyzed the differential expression in RNA-Seq data, and drew enrichment plot to make the differences clearly using KEGG or GO as background;
     - Analyzed the results from array comparative genomic hybridization (aCGH).
 - Wet experiment
     - Made the libraries of whole exome sequence from the patient's whole blood;
     - Made the comparative genomic hybridization array (aCGH) from the patient's whole blood or patient's carcinoma and adjacent tissue.
 - Clinic
-    - Collecting POF (Primary Ovarian Failure) patients' whole samples and ranked the priority of these samples with doctor and other members of POF project.
+    - Collecting POF (primary ovarian failure) patients' whole samples and ranked the priority of these samples with doctor and other members of POF project.
 
 #### **Undergraduate**
 <p align="right">Hainan, China</p>
