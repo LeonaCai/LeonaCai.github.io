@@ -32,12 +32,12 @@ Rank 12 from top in the major
 #### **Undergraduate**
 <p align="right">Hainan, China</p>
 
-#### • Xudong Yu Lab of Hainan University of Botany and Plant Science
-<p align="right">5/2011 - 6/2013</p>
+#### • Xudong Yu Lab of Hainan University 
+Laboratory for Phytopathology <p align="right">5/2011 - 6/2013</p>
 - Found the medicinal and health value of Muntingia calabura L.
 
-#### • Zhiqiong Tan Lab of Hainan University of Plant Pathology 
-<p align="right">6/2013 - 6/2014</p>
+#### • Zhiqiong Tan Lab of Hainan University
+Laboratory for Microbiology <p align="right">6/2013 - 6/2014</p>
 - Determined the anti-microbial activity of Bacillus subtilis B25 to some 
 
 
