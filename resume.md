@@ -4,7 +4,7 @@ title: Resume
 ---
 
 # Baozhu Cai
-[You can downlaod here](https://github.com/LeonaCai/LeonaCai.github.io/raw/master/img/Baozhu_cai.pdf)
+[Resume](https://github.com/LeonaCai/LeonaCai.github.io/raw/master/img/Baozhu_cai.pdf)
 ## Contatct
 📧E-mail: cai_leona@outlook.com  
 👁‍Website: <https://leonacai.github.io/resume/>
@@ -35,14 +35,11 @@ Rank 12 from top in the major
 #### • Xudong Yu Lab of Hainan University of Botany and Plant Science
 <p align="right">5/2011 - 6/2013</p>
 - Found the medicinal and health value of Muntingia calabura L.
-    - Muntingia calabura L tissue cultured
 
 #### • Zhiqiong Tan Lab of Hainan University of Plant Pathology 
 <p align="right">6/2013 - 6/2014</p>
 - Determined the anti-microbial activity of Bacillus subtilis B25 to some 
-    - Isolation and purification of Bacillus subtilis B25
-    - Culture of Bacillus subtilis B25
-    - Used dual culture technique and single immunodiffusion test and inhibitory activity of azoxystrobin against mycelial growth and conidia germination of Bacillus subtilis B25 to determine it's anti-microbial activity to some phytopathogen
+
 
 ## [Publications](https://scholar.google.com/citations?user=QgEkkNEAAAAJ&hl=en)
  **\*** ACKNOWLEDGEMENTS
@@ -69,6 +66,8 @@ Rank 12 from top in the major
     - Coursera (Stanford University)
 - [Finding Hidden Massages in DNA(bioinformatics I)](https://www.coursera.org/account/accomplishments/certificate/RZPX8KYDCNTP)
     - Coursera (University of California, SanDiego)
+- Language C
+    - [National Computer Rank Examination certificate - Language C](https://github.com/LeonaCai/LeonaCai.github.io/blob/master/img/2-c.jpg)
 
 ## Skills
 - **Computing**: Python, R, Perl, C++, Ruby
@@ -76,7 +75,7 @@ Rank 12 from top in the major
 - **Operating Systems**: Linux, Windows
 
 ## Leadership Experience and Activites
-- The student union of Hainan University                                         5/2011 - 6/2012
+- The student union of Hainan University                                         5/2011 - 6/2013
     - Vice President
 - The agriculture scholarship of Hainan University  2010-2011
 - The agriculture scholarship of Hainan University  2011-2012
