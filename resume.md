@@ -12,7 +12,7 @@ title: Resume
 ## Education
 ### Hainan University, Hainan, China
 B.S. in Agriculture with three-year Agriculture Scholarships (2010 - 2013)  
-**GPA:3.51/4.0 (last 60 credits)**  
+**Average Score:85.1/100 (last 60 credits)**  
 Rank 12 from top in the major
 
 ## Research Experience
