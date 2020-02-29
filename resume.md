@@ -16,7 +16,7 @@ B.S. in Agriculture with three-year Agriculture Scholarships (2010 - 2013)
 Rank 12 from top in the major
 
 ## Research Experience
-#### • [Feng Zhang](http://www.gdg-fudan.org/) Lab of the State Key Laboratory of Genetic Enineering of School of Life Science of Fudan University, China
+#### • [Feng Zhang Lab](http://www.gdg-fudan.org/) of the State Key Laboratory of Genetic Enineering of School of Life Science of Fudan University, China
 <p align="right">2015/4-2019/2</p>
 - Bioinformatics
     - Called, analyzed and annotated single nucleotide polymorphisms derived from whole exome sequence samples that change variant interpretation compared to individual variants.
