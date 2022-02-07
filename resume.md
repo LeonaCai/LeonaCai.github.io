@@ -163,7 +163,7 @@ title: Resume
 
 C; Python; R; Python; Perl
 
--   Language C - [National Computer Rank Examination certificate - Language C](https://github.com/LeonaCai/LeonaCai.github.io/blob/master/img/2-c.jpg)
+-   Language C - [National Computer Rank Examination certificate - Language C](https://github.com/LeonaCai/LeonaCai.github.io/blob/master/img/National%20Computer%20Rank%20Examination%20Certificate-Baozhu%20Cai.jpg)
 
 ## **Leadership Experience and Honors**
 
