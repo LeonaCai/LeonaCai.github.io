@@ -59,7 +59,7 @@ title: Resume
 
     **Research theme:** Found the medicinal and health value of *Muntingia calabura* L.
 
-## **Publications**<https://scholar.google.com/citations?user=QgEkkNEAAAAJ&hl=en>
+## [**Publications**](https://scholar.google.com/citations?user=QgEkkNEAAAAJ&hl=en)
 
 1.  Xi Yang, Xiaojin Zhang, Jiao Jiao, Feng Zhang, Yuncheng Pan, Qiqi Wang, Qing Chen, **Baozhu Cai**, Shuyan Tang, Zixue Zhou, Siyuan Chen, Hao Yin, Wei Fu, Yang Luo, Da Li, Guoqing Li, Lingyue Shang, Jialing Yang, Li Jin, Qinghua Shi, Yanhua Wu. \"Rare variants in FANCA induce premature ovarian insufficiency.\" *Human genetics* (2019): 1-10.
 
